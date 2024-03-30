@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.AssemblyInfo.cs
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\bin\Debug\net8.0\DesafioEstagio.exe
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\bin\Debug\net8.0\DesafioEstagio.deps.json
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\bin\Debug\net8.0\DesafioEstagio.runtimeconfig.json
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\bin\Debug\net8.0\DesafioEstagio.dll
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\bin\Debug\net8.0\DesafioEstagio.pdb
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.dll
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\refint\DesafioEstagio.dll
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.pdb
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\DesafioEstagio.genruntimeconfig.cache
+C:\Users\USER\source\repos\DesafioEstagio\DesafioEstagio\obj\Debug\net8.0\ref\DesafioEstagio.dll
